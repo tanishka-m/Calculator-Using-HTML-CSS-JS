@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.text-center {
+  margin: 2.5vh 0 2.5vh 0;
+  text-align: center;
+   
+}
+
+/* .bg-red{
+  background-color: red;
+} */
+
+.container{
+  text-align: center;
+  margin: 4vh 0 2vh 0;
+}
+
+.flex{
+  display: flex;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+/* .item-center{
+  text-align: center;
+} */
